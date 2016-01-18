@@ -1,0 +1,1 @@
+1/15/16 - created object literals for each kiosk.
